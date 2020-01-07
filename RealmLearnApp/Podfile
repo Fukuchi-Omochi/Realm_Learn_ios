@@ -7,5 +7,6 @@ target 'RealmLearnApp' do
 
   # Pods for RealmLearnApp
   pod 'Realm'
+  pod 'RealmSwift'
 
 end
